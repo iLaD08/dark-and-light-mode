@@ -1,0 +1,44 @@
+body {
+    background-color: #ffff;
+    transition: background 0.2s linear;
+
+}
+.home {
+    margin-top: 8%;
+    display: flex;
+    justify-content: center;
+}
+.btn {
+    padding: 15px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
+    background-color: #ffff;
+}
+#moon {
+    display: none;
+    font-size: 35px;
+}
+#sun {
+    font-size: 35px;
+}
+
+footer {
+    position: fixed;
+    bottom: 12px;
+    right: 12px;
+    font-size: 25px;
+}
+footer button {
+    border: none;
+    background-color: #4141b9;
+    color: white;
+    padding: 15px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+footer button:hover {
+    background-color: #8e8ed3;
+    transition: linear .2s all;
+    transform: scale(1.05);
+}
