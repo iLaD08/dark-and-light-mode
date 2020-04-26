@@ -1,4 +1,4 @@
-const localColor = localStorage.color
+const localColor = localStorage.color;
 
 function onload() { 
     if(localStorage.color === "#ffff") {
