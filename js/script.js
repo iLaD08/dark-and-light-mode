@@ -31,6 +31,6 @@ function change() {
         document.getElementById("moon").style.display = "block";
     }
     else {
-        console.log("Error")
+        alert("Error")
     }
 }
