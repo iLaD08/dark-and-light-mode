@@ -1,3 +1,4 @@
 # Dark and light mode
 
-Example : https://dark-and-light-mode.now.sh/
+Demo : [Click me](https://dark-and-light-mode.now.sh/)
+
